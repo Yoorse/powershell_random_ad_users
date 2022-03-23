@@ -1,4 +1,5 @@
 ###Listen af navne, efternavne og titel
+##husk at ændre lokation, hvor du har gemt listerne af fornavne,efternavne og titler.
 $fornavne = Get-Content "C:\Temp\fornavne.txt"
 $efternavne = Get-Content "C:\Temp\efternavne.txt"
 $titler = Get-Content "C:\Temp\titler.txt"
